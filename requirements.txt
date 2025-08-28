@@ -1,0 +1,9 @@
+# Optional: if using pip instead of conda
+ipykernel
+jupyterlab
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+pyyaml

@@ -1,0 +1,17 @@
+name: ds-portfolio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - pyyaml
+  - pip
+  - pip:
+      # add extra pip-only deps here
+      - 
