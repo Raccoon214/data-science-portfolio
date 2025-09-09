@@ -1,0 +1,198 @@
+feedback_id,feedback_text,department
+141,Why does the app need access to my contacts? This seems like a privacy issue.,app_experience
+114,The station closure information isn't visible until after I've planned a route through it.,service_updates
+17,The crosswalk at Main and Central is shown in the wrong location on your map.,navigation_issues
+76,The ferry schedule information hasn't been updated since last summer.,service_updates
+156,"Every time I try to submit feedback through the app, I get a server error.",app_experience
+187,The haptic feedback for alerts is way too strong and can't be adjusted.,app_experience
+70,"Your schedule says trains run until midnight, but the last train is actually at 11:30pm. This is dangerous misinformation.",service_updates
+56,The seasonal ferry service to the island isn't shown as an option in your app.,navigation_issues
+19,The new bike lane on Oak Street isn't showing up on your maps.,navigation_issues
+171,The language setting keeps reverting to English even though I've set it to Spanish.,app_experience
+176,The app uses an excessive amount of phone storage after recent updates.,app_experience
+16,Your walking directions sent me through a private property that requires keycard access.,navigation_issues
+163,I can't figure out how to delete saved locations that I no longer need.,app_experience
+61,The emergency exit-only doors at the university station aren't marked as such on your map.,navigation_issues
+116,Your scheduled arrival time for the express bus is consistently 10+ minutes off from reality.,service_updates
+115,The app doesn't indicate which bus stops are temporarily relocated due to the parade route.,service_updates
+147,"The app isn't compatible with my screen reader, making it unusable for visually impaired people.",app_experience
+10,The walking time estimates are completely unrealistic - they assume I can walk a mile in 10 minutes!,navigation_issues
+74,"According to your schedule, the #42 bus runs on Sundays, but it doesn't actually operate on weekends at all.",service_updates
+191,"The tutorial keeps popping up every time I open the app, even though I've completed it.",app_experience
+113,Your service alerts don't include information about the planned strike next week.,service_updates
+94,The real-time arrivals feature isn't working for any of the downtown stations.,service_updates
+140,The app is way too slow to update when a train or bus passes my stop.,app_experience
+46,The route suggested was through a construction zone that's been closed for weeks.,navigation_issues
+86,The bus schedule viewer shows weekday times even when I select 'Saturday'.,service_updates
+68,The real-time tracking for Bus 42 has been wrong all week. Please fix!,service_updates
+148,The app doesn't save my route history even though I have that feature enabled.,app_experience
+175,The calendar integration feature doesn't sync properly with my appointments.,app_experience
+31,The distance measurement feature is giving wildly inaccurate results.,navigation_issues
+69,"The app shows my bus is 'on time' but according to the transit agency's website, it's delayed by 30 minutes.",service_updates
+83,"The bus tracker shows buses that don't actually exist, especially late at night.",service_updates
+120,The real-time arrivals board has been stuck showing the same information for hours.,service_updates
+185,The screen reader integration is broken after the latest update.,app_experience
+25,"The walking route you suggested includes a stairway with over 100 steps, with no alternative.",navigation_issues
+133,Love the app overall but the new update makes it really slow to load routes.,app_experience
+96,The delay warnings don't specify which direction of travel is affected.,service_updates
+57,Your app doesn't recognize that the underpass floods during heavy rain and becomes impassable.,navigation_issues
+20,Pedestrian bridges are not clearly marked on the map.,navigation_issues
+123,The train frequency information is completely wrong during rush hour - says 4 minutes when it's really 10+.,service_updates
+77,Your trip planner doesn't account for the reduced weekend subway service.,service_updates
+6,Can't zoom in enough on the map to see the smaller bus stops clearly.,navigation_issues
+66,The app shows the bus is arriving in 5 minutes but it's been 20 minutes and no bus has arrived.,service_updates
+138,The app doesn't adapt to dark mode even though my phone is set to it.,app_experience
+98,"The app claims a 5-minute wait for the next train, but the station display says 15 minutes.",service_updates
+170,The trip planning function is buggy and often fails to find valid routes.,app_experience
+125,Your service alerts don't include information about the fare increase starting next month.,service_updates
+167,"After the latest update, all my saved favorites disappeared.",app_experience
+13,I can't find the option to filter out routes that require too much walking.,navigation_issues
+36,The traffic light timing seems off in your walking time calculations.,navigation_issues
+164,The app crashes every time I try to use the offline maps feature.,app_experience
+43,I can't find the option to prioritize well-lit paths for nighttime walking.,navigation_issues
+67,Your ETA for my train was completely off by at least 15 minutes. Please update your information.,service_updates
+159,The route planning screen keeps freezing when I try to change my arrival time.,app_experience
+79,The real-time updates for the #7 train haven't been working all month.,service_updates
+119,Your service updates don't mention the flooding that's affecting several downtown stations.,service_updates
+126,"The real-time bus location is shown moving on the map, but the actual bus has been stuck in traffic for 15 minutes.",service_updates
+30,There's no option to prefer routes with shade in hot weather.,navigation_issues
+137,App is constantly refreshing and draining my battery extremely quickly.,app_experience
+162,The notification settings keep resetting to default after each app update.,app_experience
+52,The directional arrows for one-way streets are missing on several downtown roads.,navigation_issues
+168,"The app takes forever to launch, sometimes up to 30 seconds on my phone.",app_experience
+39,The junction of Maple and Oak streets is shown incorrectly on your map.,navigation_issues
+32,The app doesn't show which entrances to the subway station are closed at night.,navigation_issues
+97,The line status indicator shows all good service when there are actually major delays.,service_updates
+160,I can't disable the automatic app updates that happen at the worst possible times.,app_experience
+42,The app doesn't consider that some bus stops are only active during rush hour.,navigation_issues
+193,The keyboard often obscures the search results and can't be dismissed easily.,app_experience
+102,"The transit alert for the broken escalator disappeared, but it's still not working.",service_updates
+27,The app routes me through a neighborhood that's unsafe to walk through at night.,navigation_issues
+172,The app freezes when I try to switch between different transportation modes.,app_experience
+196,I can't zoom in on the transit map using the standard pinch gesture.,app_experience
+184,The app runs extremely slowly on my tablet compared to my phone.,app_experience
+3,The walking directions to the subway are taking me through a construction zone that's closed off.,navigation_issues
+47,"Cannot find restroom locations on your map, which is essential for long trips.",navigation_issues
+105,The service disruption on the Green Line isn't mentioned anywhere in your app.,service_updates
+146,"The text is too small to read, even when I increase my phone's font size.",app_experience
+139,The app crashes whenever I try to share my route with a friend.,app_experience
+37,I can't find any information about accessibility ramps at subway stations.,navigation_issues
+188,"The app doesn't support landscape mode, which makes planning difficult on my tablet.",app_experience
+23,There's no way to tell which stations have restrooms available in your app.,navigation_issues
+129,Your service information doesn't mention that the downtown bus tunnel closes early on Fridays.,service_updates
+91,The app doesn't indicate which subway cars are typically less crowded.,service_updates
+34,The shortcut through the university campus doesn't show up as an option.,navigation_issues
+12,"According to your app, the bus stop is across from the bank, but it's actually in front of the library now.",navigation_issues
+127,"According to your app, the special event shuttle is running, but the driver says it ended yesterday.",service_updates
+157,The new payment feature always fails to connect to my bank.,app_experience
+7,The street view option doesn't work at any of the major intersections I've tried.,navigation_issues
+28,The new bus rapid transit lane isn't reflected in your route timing estimates.,navigation_issues
+110,"Your app shows the airport shuttle running every 15 minutes, but it's actually every 30 minutes after 7 PM.",service_updates
+5,The one-way street near the bus terminal is shown going in the wrong direction on your map.,navigation_issues
+33,The compass direction indicator is completely wrong on my phone.,navigation_issues
+195,"The app randomly switches to light mode in the middle of using it, hurting my eyes at night.",app_experience
+143,The app frequently logs me out and I have to re-enter my password.,app_experience
+99,Your transit alerts don't include information about the construction affecting the Central Station.,service_updates
+142,"Every time I try to save a favorite route, the app gives me an error message.",app_experience
+11,There's no option to avoid steep hills in the walking directions.,navigation_issues
+63,The elevator icon on your map doesn't indicate which ones are currently out of service.,navigation_issues
+101,"According to the app, the express train runs until 11 PM, but it switches to local service after 10 PM.",service_updates
+144,The interface is too cluttered with unnecessary buttons and options.,app_experience
+1,I can't find the subway station on your map. It should be at Main Street but it's not showing up.,navigation_issues
+177,The login screen keeps appearing even though I selected 'remember me'.,app_experience
+151,Can't adjust the volume of voice directions within the app.,app_experience
+71,Station accessibility information is outdated. You show elevators that have been out of service for months.,service_updates
+112,The app doesn't show that the north entrance of the Main Street station is closed after 8 PM.,service_updates
+65,I can't find any information about bike parking locations near transit stations.,navigation_issues
+45,Your directions don't account for the farmer's market that blocks Main Street every Saturday.,navigation_issues
+128,The app doesn't show that certain express trains skip my station during rush hour.,service_updates
+29,The map is missing several new streets in the recently developed waterfront area.,navigation_issues
+41,Your map is missing the new footbridge over the highway that opened last month.,navigation_issues
+118,"According to your app, the transit system is operating normally despite the snowstorm that has paralyzed the city.",service_updates
+153,The app doesn't resize properly when I rotate my screen.,app_experience
+154,The favorite routes widget doesn't update with the latest service information.,app_experience
+26,There's a new pedestrian plaza that isn't reflected on your maps.,navigation_issues
+24,The bicycle repair stations aren't marked on your map.,navigation_issues
+149,I keep getting duplicate notifications for the same alerts.,app_experience
+145,Why does the app use so much data? It's eating through my monthly allowance.,app_experience
+82,"There was major flooding affecting the subway system yesterday, but your app showed all lines running normally.",service_updates
+109,The status update for the elevator repair at Central Station hasn't been updated in weeks.,service_updates
+80,Your alerts about service interruptions come too late to be useful for planning.,service_updates
+85,Your app consistently underestimates transfer times between different lines.,service_updates
+40,There's no indication of which subway cars stop closest to the exits at each station.,navigation_issues
+62,Your app doesn't show the location of ticket vending machines at transit stations.,navigation_issues
+121,The app doesn't notify users when a previously delayed service returns to normal operation.,service_updates
+124,The app doesn't indicate which routes are operating with reduced capacity due to maintenance.,service_updates
+87,"The app shows trains arriving at consistent intervals, but in reality, they're bunching up.",service_updates
+78,"The app shows an express train stopping at a local station, which is completely wrong.",service_updates
+192,I'm getting push notifications even though I've disabled them in settings.,app_experience
+166,The voice guidance volume is much louder than other apps on my phone.,app_experience
+48,The map doesn't show the location of bike share stations accurately.,navigation_issues
+95,"Your app shows the ferry is running today, but it's been cancelled due to high winds.",service_updates
+182,The accessibility settings for colorblind users don't actually change anything.,app_experience
+44,"The transfer between the red and blue lines requires leaving the station, but your app doesn't mention this.",navigation_issues
+136,The search function isn't working properly. I type in a station name and get completely unrelated results.,app_experience
+4,Can't see bike paths on the map anymore after the latest update.,navigation_issues
+106,Your app doesn't indicate that the downtown-bound platform is closed for repairs this month.,service_updates
+54,The map doesn't indicate which subway stations have cell service.,navigation_issues
+134,"When I click on a station, the app freezes and I have to restart it.",app_experience
+178,I can't disable the annoying promotional notifications that have nothing to do with transit.,app_experience
+155,The app's interface is completely different after the update and I can't find anything anymore.,app_experience
+183,I can't figure out how to change my email address in the account settings.,app_experience
+50,The station exit you directed me to has been closed for renovation for months.,navigation_issues
+81,The estimated arrival times for buses are consistently 5-10 minutes earlier than reality.,service_updates
+35,Your app shows a pathway through the park that's been closed for renovation.,navigation_issues
+8,The map is showing a bus route that was discontinued last month.,navigation_issues
+111,There is no indication that the late-night bus service has been temporarily suspended.,service_updates
+92,"According to your app, the shuttle bus is running, but it was discontinued last week.",service_updates
+84,The schedule still shows summer service hours even though we're now in the fall timetable.,service_updates
+174,I can't figure out how to report a bug through the app interface.,app_experience
+179,The app keeps crashing when I try to access my payment history.,app_experience
+90,Your trip planner isn't accounting for the holiday schedule next Monday.,service_updates
+9,"The bicycle lane on 5th Avenue is shown incorrectly - it's on the west side, not the east side of the street.",navigation_issues
+14,The map doesn't distinguish between entrances that are accessible and those that aren't.,navigation_issues
+60,The suggested walking route takes me through a steep hill that's impossible with a stroller.,navigation_issues
+169,I keep getting random notifications from the app at 3 AM with no apparent content.,app_experience
+132,The app keeps crashing every time I try to plan a route with multiple transfers.,app_experience
+18,There's no way to report a closed sidewalk or construction detour through the app.,navigation_issues
+73,Your app says the subway station has an elevator but it's been under construction for weeks.,service_updates
+173,The widget displays outdated information and doesn't refresh properly.,app_experience
+135,The notification sounds for arrival alerts don't work even though I have them enabled in settings.,app_experience
+165,Why does the app need constant location access even when I'm not using it?,app_experience
+181,Why does the app need access to my microphone? This is concerning.,app_experience
+64,The waterfront path you suggested is underwater during high tide.,navigation_issues
+55,I can't find information about which areas of the transit system have WiFi.,navigation_issues
+108,The app doesn't show that the transit system closes early on Sundays.,service_updates
+51,There's no way to tell which side of the street a bus stop is on from your map.,navigation_issues
+194,The auto-complete for station names hasn't been working since the last update.,app_experience
+59,There's no indication of which parks close at dusk on your maps.,navigation_issues
+49,Your app fails to indicate which routes have sheltered waiting areas.,navigation_issues
+89,The displayed bus number differs from what actually shows up at the stop.,service_updates
+22,The landmark used in directions ('turn right at the gas station') has been demolished months ago.,navigation_issues
+58,The map doesn't show where the airport shuttle pickup locations are.,navigation_issues
+161,The app is using a massive amount of battery even when running in the background.,app_experience
+190,The app's performance has degraded significantly with recent updates.,app_experience
+130,"The transit system is on a modified schedule today due to the marathon, but this isn't reflected in your app.",service_updates
+38,The suggested route had me walking through a private shopping mall that closes at 9pm.,navigation_issues
+158,The text contrast is so poor that I can't read the screen in sunlight.,app_experience
+186,Why do I need to create an account just to see bus schedules?,app_experience
+2,The map doesn't show the correct location of the bus stops in my neighborhood.,navigation_issues
+53,Your walking time estimates don't account for waiting at crosswalks.,navigation_issues
+150,The trip comparison feature doesn't load properly on my device.,app_experience
+131,"Your app indicates all escalators are working, but several have been out of service for days.",service_updates
+152,Why does the app need to access my photos? This seems unnecessary.,app_experience
+104,"The real-time tracking shows my bus at the stop, but there's no bus here.",service_updates
+100,"The bus scheduled for 3:15 PM never showed up, but your app showed it as on time.",service_updates
+117,The app doesn't show that the last two trains of the night have been cancelled all week.,service_updates
+88,Your real-time data for the express buses has been frozen all morning.,service_updates
+75,The alert for track maintenance didn't appear until I was already at the station.,service_updates
+122,"Your service alert about the broken elevator disappeared, but the elevator is still out of service.",service_updates
+197,"The emergency alert sound is the same as regular notifications, which is confusing.",app_experience
+21,The entrance to the park that you direct me to use is closed for renovation.,navigation_issues
+189,I can't find a way to clear my search history within the app.,app_experience
+72,The weekend service changes aren't reflected in your route suggestions.,service_updates
+107,"According to your schedule information, buses run every 10 minutes, but they're actually every 20-30 minutes.",service_updates
+15,The option to report a map error doesn't actually work - I've tried multiple times.,navigation_issues
+93,Your app doesn't show the temporary bus stop relocations due to the street fair.,service_updates
+180,The animation for the moving vehicles is very jerky and distracting.,app_experience
+103,"Your app shows regular weekday service for tomorrow, but it's a holiday with reduced schedules.",service_updates
